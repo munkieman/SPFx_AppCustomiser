@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.2",
+    "libraryName": "sp-fx-app-customiser",
+    "libraryId": "7a2b3bb0-84f7-40f0-b1b0-0cc5c9daa88b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFxAppCustomiser",
+    "solutionShortDescription": "SPFxAppCustomiser description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
